@@ -59,7 +59,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Vankata03&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+<img src="https://ghchart.rshah.org/E10600/Vankata03" alt="Contribution chart" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vankata03/Vankata03/output/github-contribution-grid-snake-dark.svg" />
