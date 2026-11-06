@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B2D,100:E10600&height=200&section=header&text=Ivan%20Terziev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Self-taught%20programmer%20%C2%B7%20TU%20Sofia%20%C2%B7%20Accedia&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F1B2D,100:8B5CF6&height=200&section=header&text=Ivan%20Terziev&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Self-taught%20programmer%20%C2%B7%20TU%20Sofia%20%C2%B7%20Accedia&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=E10600&center=true&vCenter=true&width=650&lines=Building+an+F1+race-engineer+dashboard;Writing+SwiftUI+apps+for+iOS+and+watchOS;Learning+graphics+with+OpenGL%2C+C%2B%2B+and+Rust;Teaching+AI+agents+to+use+my+second+brain" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+an+F1+race-engineer+dashboard;Writing+SwiftUI+apps+for+iOS+and+watchOS;Learning+graphics+with+OpenGL%2C+C%2B%2B+and+Rust;Teaching+AI+agents+to+use+my+second+brain" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/ivan-terziev-b16317278/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Location-Sofia,%20Bulgaria-0F1B2D?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://komarev.com/ghpvc/?username=Vankata03&style=for-the-badge&color=E10600&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Vankata03&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/E10600/Vankata03" alt="Contribution chart" width="100%" />
+<img src="https://ghchart.rshah.org/8B5CF6/Vankata03" alt="Contribution chart" width="100%" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Vankata03/Vankata03/output/github-contribution-grid-snake-dark.svg" />
@@ -56,4 +56,4 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E10600,100:0F1B2D&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:0F1B2D&height=100&section=footer" width="100%"/>
