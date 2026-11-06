@@ -10,18 +10,6 @@
 
 </div>
 
-## About me
-
-```json
-{
-  "name": "Ivan Terziev",
-  "based_in": "Sofia, Bulgaria",
-  "studying": "TU Sofia",
-  "working_at": "Accedia",
-  "into": ["F1 telemetry", "SwiftUI", "graphics programming", "AI agents"]
-}
-```
-
 ## Tech stack
 
 <div align="center">
